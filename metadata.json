@@ -1,0 +1,8 @@
+{
+  "name": "Do You Love Me?",
+  "description": "A romantic, interactive digital love surprise created specially by KSG.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
